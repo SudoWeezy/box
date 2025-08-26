@@ -3,7 +3,7 @@
   "sources": [
     "../../box_app/contract.py"
   ],
-  "mappings": ";;;;;;;;;AAIA;;AAAA;;;AAAA;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;AAAA;;AA+EK;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;AAAA;;AAPA;;AAAA;AAAA;AAAA;;AAAA;AAxEL;;;AAAA;;;AAAA;;;AAAA;AAwEK;;;AAAA;;AAnEA;;AAAA;AAAA;AAAA;;AAAA;AALL;;;AAAA;;;AAAA;;;AAAA;;;AAAA;;;AAAA;AAKK;;;AAAA;;AALL;;AAAA;;;;;;;;;AAKA;;;;;;;;;;AAGQ;;AAAK;AAAL;AACR;;;AACY;AAEW;;AAAA;AAAA;;;AAAR;AAAP;AAAA;;AACY;AAAZ;;AACG;AAAA;AAAA;;AAAA;AAAA;;AAAX;;;AACwB;;AAAA;AAAA;AAAA;AAAA;;AAKhB;;AAAA;;AAAU;AAEP;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AAEI;;AAAM;AAAN;AAAf;;;AACgB;;AAAA;AAAA;;AAAA;;AAAA;AAEsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AADI;AACJ;;AAAA;AADI;AACJ;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAFV;AAEU;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAE6B;;AAAA;AAApC;;AAAA;AAAA;;AAAA;;AAAA;AACoC;AAApC;AAAA;;AAAA;AACA;;AAAkB;AAAP;AACK;AAAqB;;AAAA;AAArC;AAAA;AACqC;AAArC;AAAA;;AAAA;AACsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGM;;AAAA;AAAA;AAAA;AAAA;;AAAA;AACG;AAAb;AAAa;AAAb;AAAA;;AAEG;;AAAA;AAAX;;;AAEgD;AAAA;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AACA;AAIG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAAA;;AAAA;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAAP;;AAGoC;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AAGmB;;AAAY;AAAZ;AAAA;AAAA;;AAAnB;;AAAW;AACR;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AACC;;AAAA;AAAA;;AAAwB;;AAAxB;AAEiC;;AAAA;AAAA;AAArC;;AAAA;AAAA;;AAAA;;AAAA;AACqC;AAArC;AAAA;;AAAA;AAGA;;AAAA;AAAA;;AAAA;AAAA;;AArD0B;AAAtB;AAAA;;AAAA;AAAA;;;;AAuDZ;;;AAE+B;;AAAA;AAAA;;;AAAR;AACf;AAAqB;AAAf;AACU;AAAhB;;AACkB;AAAlB;;;AAMO;;AAAc;;AAAd;AAAP;AACA;AAIQ;;AAHK;;AAEU;;;AADZ;;;;;AAFX;;;;;AAAA;",
+  "mappings": ";;;;;;;;;AAIA;;AAAA;;;AAAA;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;AAAA;;AA4FK;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;AAAA;;AApBA;;AAAA;AAAA;AAAA;;AAAA;AAxEL;;;AAAA;;;AAAA;;;AAAA;AAwEK;;;AAAA;;AAnEA;;AAAA;AAAA;AAAA;;AAAA;AALL;;;AAAA;;;AAAA;;;AAAA;;;AAAA;;;AAAA;AAKK;;;AAAA;;AALL;;AAAA;;;;;;;;;AAKA;;;;;;;;;;AAGQ;;AAAK;AAAL;AACR;;;AACY;AAEW;;AAAA;AAAA;;;AAAR;AAAP;AAAA;;AACY;AAAZ;;AACG;AAAA;AAAA;;AAAA;AAAA;;AAAX;;;AACwB;;AAAA;AAAA;AAAA;AAAA;;AAKhB;;AAAA;;AAAU;AAEP;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AAEI;;AAAM;AAAN;AAAf;;;AACgB;;AAAA;AAAA;;AAAA;;AAAA;AAEsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AADI;AACJ;;AAAA;AADI;AACJ;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAFV;AAEU;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAE6B;;AAAA;AAApC;;AAAA;AAAA;;AAAA;;AAAA;AACoC;AAApC;AAAA;;AAAA;AACA;;AAAkB;AAAP;AACK;AAAqB;;AAAA;AAArC;AAAA;AACqC;AAArC;AAAA;;AAAA;AACsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGM;;AAAA;AAAA;AAAA;AAAA;;AAAA;AACG;AAAb;AAAa;AAAb;AAAA;;AAEG;;AAAA;AAAX;;;AAEgD;AAAA;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AACA;AAIG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAAA;;AAAA;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAAP;;AAGoC;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AAGmB;;AAAY;AAAZ;AAAA;AAAA;;AAAnB;;AAAW;AACR;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AACC;;AAAA;AAAA;;AAAwB;;AAAxB;AAEiC;;AAAA;AAAA;AAArC;;AAAA;AAAA;;AAAA;;AAAA;AACqC;AAArC;AAAA;;AAAA;AAGA;;AAAA;AAAA;;AAAA;AAAA;;AArD0B;AAAtB;AAAA;;AAAA;AAAA;;;;AAuDZ;;;;;;;AAEuB;;AAAA;AAAA;;;AAAR;AAAP;AAGG;AAAA;AAAA;AAAA;;AAAA;;;AACC;AAEQ;;AAAA;AAAA;AAAA;AAAA;;AAER;AAAJ;;AACM;;AAAA;;AAAA;AAAd;;;AACY;;AAAA;;AAAU;AACP;AAAA;AAAA;;AAAA;AAAA;;AAAf;;;AACgB;;AAAA;;AACJ;;AAAQ;AAAJ;AAAJ;;;;;AAGJ;;AAAA;;;AAMO;;AAAc;;AAAd;AAAP;AACA;AAIQ;;AAHK;;AAEU;;;AADZ;;;;;AAFX;;;;;AAAA;",
   "op_pc_offset": 0,
   "pc_events": {
     "1": {
@@ -5291,128 +5291,622 @@
       "op": "proto 2 0"
     },
     "489": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "encoded_value%2#0"
+      ]
+    },
+    "490": {
+      "op": "pushbytes \"\"",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0"
+      ]
+    },
+    "492": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0"
+      ]
+    },
+    "493": {
       "op": "frame_dig -2",
       "defined_out": [
         "raw_key#0 (copy)"
       ],
       "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
         "raw_key#0 (copy)"
       ]
     },
-    "491": {
+    "495": {
       "op": "sha256",
       "defined_out": [
         "tmp%0#0"
       ],
       "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
         "tmp%0#0"
       ]
     },
-    "492": {
+    "496": {
       "op": "substring 0 8",
       "defined_out": [
         "tmp%1#0"
       ],
       "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
         "tmp%1#0"
       ]
     },
-    "495": {
+    "499": {
       "op": "btoi",
       "defined_out": [
-        "metadata_key#0"
+        "base#0"
       ],
       "stack_out": [
-        "metadata_key#0"
-      ]
-    },
-    "496": {
-      "op": "dup",
-      "defined_out": [
-        "metadata_key#0",
-        "metadata_key#0 (copy)"
-      ],
-      "stack_out": [
-        "metadata_key#0",
-        "metadata_key#0 (copy)"
-      ]
-    },
-    "497": {
-      "op": "intc_1 // 1",
-      "defined_out": [
-        "1",
-        "metadata_key#0",
-        "metadata_key#0 (copy)"
-      ],
-      "stack_out": [
-        "metadata_key#0",
-        "metadata_key#0 (copy)",
-        "1"
-      ]
-    },
-    "498": {
-      "op": "+",
-      "defined_out": [
-        "key#0",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "metadata_key#0",
-        "key#0"
-      ]
-    },
-    "499": {
-      "op": "itob",
-      "defined_out": [
-        "encoded_value%0#0",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "metadata_key#0",
-        "encoded_value%0#0"
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0"
       ]
     },
     "500": {
-      "op": "box_del",
+      "op": "dup",
       "defined_out": [
-        "metadata_key#0",
-        "{box_del}"
+        "base#0"
       ],
       "stack_out": [
-        "metadata_key#0",
-        "{box_del}"
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "base#0"
       ]
     },
     "501": {
-      "op": "pop",
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%0#0"
+      ],
       "stack_out": [
-        "metadata_key#0"
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
       ]
     },
     "502": {
-      "op": "itob",
+      "op": "dup",
       "defined_out": [
-        "encoded_value%1#0"
+        "base#0",
+        "encoded_value%0#0"
       ],
       "stack_out": [
-        "encoded_value%1#0"
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%0#0"
       ]
     },
     "503": {
-      "op": "box_del",
+      "op": "box_len",
+      "defined_out": [
+        "_%0#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_exists%0#0"
+      ],
       "stack_out": [
-        "{box_del}"
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "_%0#0",
+        "maybe_exists%0#0"
       ]
     },
     "504": {
-      "op": "pop",
-      "stack_out": []
+      "op": "bury 1",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_exists%0#0"
+      ]
     },
-    "505": {
+    "506": {
+      "op": "bnz delete_box_after_if_else@2",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "509": {
       "retsub": true,
       "op": "retsub"
     },
-    "506": {
+    "510": {
+      "block": "delete_box_after_if_else@2",
+      "stack_in": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ],
+      "op": "frame_dig 4",
+      "defined_out": [
+        "encoded_value%0#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "512": {
+      "op": "box_get",
+      "defined_out": [
+        "encoded_value%0#0",
+        "maybe_exists%1#0",
+        "maybe_value%0#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_value%0#0",
+        "maybe_exists%1#0"
+      ]
+    },
+    "513": {
+      "error": "check self.metadata entry exists",
+      "op": "assert // check self.metadata entry exists",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_value%0#0"
+      ]
+    },
+    "514": {
+      "op": "btoi",
+      "defined_out": [
+        "encoded_value%0#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "seg_count#0"
+      ]
+    },
+    "515": {
+      "op": "frame_bury 2",
+      "defined_out": [
+        "encoded_value%0#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "517": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "encoded_value%0#0",
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0"
+      ]
+    },
+    "518": {
+      "op": "frame_bury 1",
+      "defined_out": [
+        "encoded_value%0#0",
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "520": {
+      "block": "delete_box_while_top@3",
+      "stack_in": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ],
+      "op": "frame_dig 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0"
+      ]
+    },
+    "522": {
+      "op": "frame_dig 2",
+      "defined_out": [
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0",
+        "seg_count#0"
+      ]
+    },
+    "524": {
+      "op": "<=",
+      "defined_out": [
+        "i#0",
+        "seg_count#0",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "tmp%2#0"
+      ]
+    },
+    "525": {
+      "op": "bz delete_box_after_while@7",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "528": {
+      "op": "frame_dig 3",
+      "defined_out": [
+        "base#0",
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "base#0"
+      ]
+    },
+    "530": {
+      "op": "frame_dig 1",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "base#0",
+        "i#0"
+      ]
+    },
+    "532": {
+      "op": "+",
+      "defined_out": [
+        "base#0",
+        "i#0",
+        "seg_count#0",
+        "seg_key#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "seg_key#0"
+      ]
+    },
+    "533": {
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%2#0"
+      ]
+    },
+    "534": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%2#0",
+        "encoded_value%2#0"
+      ]
+    },
+    "535": {
+      "op": "frame_bury 0",
+      "defined_out": [
+        "base#0",
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%2#0"
+      ]
+    },
+    "537": {
+      "op": "box_len",
+      "defined_out": [
+        "_%1#0",
+        "base#0",
+        "encoded_value%2#0",
+        "i#0",
+        "maybe_exists%2#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "_%1#0",
+        "maybe_exists%2#0"
+      ]
+    },
+    "538": {
+      "op": "bury 1",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_exists%2#0"
+      ]
+    },
+    "540": {
+      "op": "bz delete_box_after_if_else@6",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "543": {
+      "op": "frame_dig 0",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%2#0"
+      ]
+    },
+    "545": {
+      "op": "box_del",
+      "defined_out": [
+        "base#0",
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "{box_del}"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "{box_del}"
+      ]
+    },
+    "546": {
+      "op": "pop",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "547": {
+      "block": "delete_box_after_if_else@6",
+      "stack_in": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ],
+      "op": "frame_dig 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0"
+      ]
+    },
+    "549": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1",
+        "i#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0",
+        "1"
+      ]
+    },
+    "550": {
+      "op": "+",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "i#0"
+      ]
+    },
+    "551": {
+      "op": "frame_bury 1",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "553": {
+      "op": "b delete_box_while_top@3"
+    },
+    "556": {
+      "block": "delete_box_after_while@7",
+      "stack_in": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ],
+      "op": "frame_dig 4",
+      "defined_out": [
+        "encoded_value%0#0"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "558": {
+      "op": "box_del",
+      "defined_out": [
+        "encoded_value%0#0",
+        "{box_del}"
+      ],
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0",
+        "{box_del}"
+      ]
+    },
+    "559": {
+      "op": "pop",
+      "stack_out": [
+        "encoded_value%2#0",
+        "i#0",
+        "seg_count#0",
+        "base#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "560": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "561": {
       "subroutine": "smart_contracts.box_app.contract.BoxApp.delete_application",
       "params": {},
       "block": "delete_application",
@@ -5425,7 +5919,7 @@
         "tmp%0#0"
       ]
     },
-    "508": {
+    "563": {
       "op": "global CreatorAddress",
       "defined_out": [
         "tmp%0#0",
@@ -5436,7 +5930,7 @@
         "tmp%1#0"
       ]
     },
-    "510": {
+    "565": {
       "op": "==",
       "defined_out": [
         "tmp%2#0"
@@ -5445,14 +5939,14 @@
         "tmp%2#0"
       ]
     },
-    "511": {
+    "566": {
       "op": "assert",
       "stack_out": []
     },
-    "512": {
+    "567": {
       "op": "itxn_begin"
     },
-    "513": {
+    "568": {
       "op": "global MinTxnFee",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
@@ -5461,7 +5955,7 @@
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "515": {
+    "570": {
       "op": "global CreatorAddress",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
@@ -5472,7 +5966,7 @@
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "517": {
+    "572": {
       "op": "dup",
       "defined_out": [
         "inner_txn_params%0%%param_CloseRemainderTo_idx_0#0",
@@ -5485,14 +5979,14 @@
         "inner_txn_params%0%%param_CloseRemainderTo_idx_0#0"
       ]
     },
-    "518": {
+    "573": {
       "op": "itxn_field CloseRemainderTo",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "520": {
+    "575": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
@@ -5505,20 +5999,20 @@
         "0"
       ]
     },
-    "521": {
+    "576": {
       "op": "itxn_field Amount",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "523": {
+    "578": {
       "op": "itxn_field Receiver",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "525": {
+    "580": {
       "op": "intc_1 // pay",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
@@ -5529,20 +6023,20 @@
         "pay"
       ]
     },
-    "526": {
+    "581": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "528": {
+    "583": {
       "op": "itxn_field Fee",
       "stack_out": []
     },
-    "530": {
+    "585": {
       "op": "itxn_submit"
     },
-    "531": {
+    "586": {
       "retsub": true,
       "op": "retsub"
     }

@@ -76,10 +76,23 @@ class BoxApp(ARC4Contract):
 
     @abimethod()
     def delete_box(self, raw_key: String, index: UInt64) -> None:
-        metadata_key = op.btoi(op.sha256(raw_key.bytes)[:8])
-        key = metadata_key + 1
-        del self.memory[key]  # Todo, loop through all key
-        del self.metadata[metadata_key]
+        base = op.btoi(op.sha256(raw_key.bytes)[:8])
+
+        # If no metadata entry, nothing to delete
+        if base not in self.metadata:
+            return
+
+        seg_count = self.metadata[base]
+        # Delete all segments base+1 .. base+seg_count (if present)
+        i = UInt64(1)
+        while i <= seg_count:
+            seg_key = base + i
+            if seg_key in self.memory:
+                del self.memory[seg_key]
+            i = i + UInt64(1)
+
+        # Finally delete metadata record
+        del self.metadata[base]
 
     @abimethod(allow_actions=["DeleteApplication"])
     def delete_application(
