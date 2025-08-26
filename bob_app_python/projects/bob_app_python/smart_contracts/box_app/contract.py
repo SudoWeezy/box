@@ -9,19 +9,70 @@ class BoxApp(ARC4Contract):
 
     @abimethod()
     def fill_box(self, raw_key: String, value: String, index: UInt64) -> None:
-        value_bytes = value.bytes
-        metadata_key = op.btoi(op.sha256(raw_key.bytes)[:8])
-        key = metadata_key + 1
-        len_value = value_bytes.length
-        if len_value > 0:
-            if key not in self.memory:
-                self.memory[key] = value
-                self.metadata[metadata_key] = UInt64(0)
-            elif (len_value + (idx := self.memory.length(key))) <= UInt64(32768):
-                self.memory.box(key).ref.resize(idx + len_value)
-                self.memory.box(key).ref.splice(idx, len_value, value_bytes)
-            else:
-                pass  # TODO Handle concat between 2 box
+        vb = value.bytes
+        lv = vb.length
+        if lv == UInt64(0):
+            return
+
+        base = op.btoi(op.sha256(raw_key.bytes)[:8])
+        seg_count = UInt64(1)
+        if base in self.metadata:
+            seg_count = self.metadata[base]
+        else:
+            self.metadata[base] = UInt64(1)
+
+        # Determine current box key
+        cur_key = base + seg_count
+
+        if cur_key not in self.memory:
+            # First write for this base
+            if lv <= UInt64(32768):
+                self.memory[cur_key] = value
+                # created first segment
+                self.metadata[base] = UInt64(2)
+                return
+            # Spill into two boxes: head into seg1, tail into seg2
+            head_len = UInt64(32768)
+            head = vb[0:head_len]
+            tail = vb[head_len : lv - head_len]
+
+            self.memory.box(cur_key).ref.resize(head.length)
+            self.memory.box(cur_key).ref.splice(UInt64(0), head.length, head)
+            next_key = base + UInt64(2)
+            self.memory.box(next_key).ref.resize(tail.length)
+            self.memory.box(next_key).ref.splice(UInt64(0), tail.length, tail)
+            self.metadata[base] = UInt64(2)
+            return
+
+        # Append to existing current segment (seg_count >= 1)
+        cur_len = self.memory.length(cur_key)
+        space_left = UInt64(32768) - cur_len
+
+        if lv <= space_left:
+            # Fits in current segment
+            self.memory.box(cur_key).ref.resize(cur_len + lv)
+            self.memory.box(cur_key).ref.splice(cur_len, lv, vb)
+            return
+
+        # Spill tail to next segment
+        head_len = space_left
+        head = vb[0:head_len]
+        tail = vb[head_len : lv - head_len]
+
+        # Append head to current
+        self.memory.box(cur_key).ref.resize(cur_len + head_len)
+        self.memory.box(cur_key).ref.splice(cur_len, head_len, head)
+
+        # Write tail to next segment start
+        next_key = base + (seg_count + UInt64(1))
+        if next_key not in self.memory:
+            self.memory[next_key] = String("")
+
+        self.memory.box(next_key).ref.resize(tail.length)
+        self.memory.box(next_key).ref.splice(UInt64(0), tail.length, tail)
+
+        # We just created/used the next segment
+        self.metadata[base] = seg_count + UInt64(1)
 
     @abimethod()
     def delete_box(self, raw_key: String, index: UInt64) -> None:
@@ -34,9 +85,7 @@ class BoxApp(ARC4Contract):
     def delete_application(
         self,
     ) -> None:  # Only allow the creator to delete the application
-        assert (
-            Txn.sender == Global.creator_address
-        )  # Send all the unsold assets to the creator
+        assert Txn.sender == Global.creator_address
         itxn.Payment(
             receiver=Global.creator_address,
             amount=0,

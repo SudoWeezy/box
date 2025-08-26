@@ -3,7 +3,7 @@
   "sources": [
     "../../box_app/contract.py"
   ],
-  "mappings": ";;;;;AAIA;;AAAA;;;AAAA;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;AAAA;;AA4BK;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;AAAA;;AAPA;;AAAA;AAAA;AAAA;;AAAA;AArBL;;;AAAA;;;AAAA;;;AAAA;AAqBK;;;AAAA;;AAhBA;;AAAA;AAAA;AAAA;;AAAA;AALL;;;AAAA;;;AAAA;;;AAAA;;;AAAA;;;AAAA;AAKK;;;AAAA;;AALL;;AAAA;;;;;;;;;AAKA;;;;;;AAG+B;;AAAA;AAAA;;;AAAR;AAAf;AACqB;AAAf;AACN;;AAAY;AAAZ;AACR;;;AACe;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AACC;;AAAA;AAAA;;AAAA;;AAAA;AACc;;AAAA;AAAgB;AAA9B;AAAA;;AACsB;;AAAA;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAApB;;AAAA;AAAiD;;;;AAAjD;AAAlB;;;AACgD;;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAhC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;;AAIhB;;;AAE+B;;AAAA;AAAA;;;AAAR;AACf;AAAqB;AAAf;AACU;AAAhB;;AACkB;AAAlB;;;AAOI;;AAAc;;AAAd;AADJ;AAGA;AAIQ;;AAHK;;AAEU;;;AADZ;;;;;AAFX;;;;;AAAA;",
+  "mappings": ";;;;;;;;;AAIA;;AAAA;;;AAAA;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;AAAA;;AA+EK;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;AAAA;;AAPA;;AAAA;AAAA;AAAA;;AAAA;AAxEL;;;AAAA;;;AAAA;;;AAAA;AAwEK;;;AAAA;;AAnEA;;AAAA;AAAA;AAAA;;AAAA;AALL;;;AAAA;;;AAAA;;;AAAA;;;AAAA;;;AAAA;AAKK;;;AAAA;;AALL;;AAAA;;;;;;;;;AAKA;;;;;;;;;;AAGQ;;AAAK;AAAL;AACR;;;AACY;AAEW;;AAAA;AAAA;;;AAAR;AAAP;AAAA;;AACY;AAAZ;;AACG;AAAA;AAAA;;AAAA;AAAA;;AAAX;;;AACwB;;AAAA;AAAA;AAAA;AAAA;;AAKhB;;AAAA;;AAAU;AAEP;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AAEI;;AAAM;AAAN;AAAf;;;AACgB;;AAAA;AAAA;;AAAA;;AAAA;AAEsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AADI;AACJ;;AAAA;AADI;AACJ;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAFV;AAEU;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAE6B;;AAAA;AAApC;;AAAA;AAAA;;AAAA;;AAAA;AACoC;AAApC;AAAA;;AAAA;AACA;;AAAkB;AAAP;AACK;AAAqB;;AAAA;AAArC;AAAA;AACqC;AAArC;AAAA;;AAAA;AACsB;AAAtB;AAAA;;AAAA;AAAA;AACA;AAGM;;AAAA;AAAA;AAAA;AAAA;;AAAA;AACG;AAAb;AAAa;AAAb;AAAA;;AAEG;;AAAA;AAAX;;;AAEgD;AAAA;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AACA;AAIG;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;;AAAA;;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AACc;;AAAA;;AAAA;AAAd;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAP;;AAAA;;AAAA;;AAAO;AAAP;;AAGoC;;AAAA;AAAA;;AAAA;AAApC;;AAAA;AAAA;;AAAA;AACA;AAAA;;AAAA;;AAAA;AAGmB;;AAAY;AAAZ;AAAA;AAAA;;AAAnB;;AAAW;AACR;AAAA;AAAA;;AAAA;AAAA;;AAAA;;;AACC;;AAAA;AAAA;;AAAwB;;AAAxB;AAEiC;;AAAA;AAAA;AAArC;;AAAA;AAAA;;AAAA;;AAAA;AACqC;AAArC;AAAA;;AAAA;AAGA;;AAAA;AAAA;;AAAA;AAAA;;AArD0B;AAAtB;AAAA;;AAAA;AAAA;;;;AAuDZ;;;AAE+B;;AAAA;AAAA;;;AAAR;AACf;AAAqB;AAAf;AACU;AAAhB;;AACkB;AAAlB;;;AAMO;;AAAc;;AAAd;AAAP;AACA;AAIQ;;AAHK;;AAEU;;;AADZ;;;;;AAFX;;;;;AAAA;",
   "op_pc_offset": 0,
   "pc_events": {
     "1": {
@@ -11,9 +11,9 @@
       "params": {},
       "block": "main",
       "stack_in": [],
-      "op": "intcblock 1 0"
+      "op": "intcblock 0 1 32768 2"
     },
-    "5": {
+    "9": {
       "op": "txn NumAppArgs",
       "defined_out": [
         "tmp%0#2"
@@ -22,11 +22,11 @@
         "tmp%0#2"
       ]
     },
-    "7": {
+    "11": {
       "op": "bz main_bare_routing@8",
       "stack_out": []
     },
-    "10": {
+    "14": {
       "op": "pushbytess 0x5efc890a 0xe5bc2d4c 0x33b3499e // method \"fill_box(string,string,uint64)void\", method \"delete_box(string,uint64)void\", method \"delete_application()void\"",
       "defined_out": [
         "Method(delete_application()void)",
@@ -39,7 +39,7 @@
         "Method(delete_application()void)"
       ]
     },
-    "27": {
+    "31": {
       "op": "txna ApplicationArgs 0",
       "defined_out": [
         "Method(delete_application()void)",
@@ -54,14 +54,14 @@
         "tmp%2#0"
       ]
     },
-    "30": {
+    "34": {
       "op": "match main_fill_box_route@5 main_delete_box_route@6 main_delete_application_route@7",
       "stack_out": []
     },
-    "38": {
+    "42": {
       "block": "main_after_if_else@10",
       "stack_in": [],
-      "op": "intc_1 // 0",
+      "op": "intc_0 // 0",
       "defined_out": [
         "tmp%0#1"
       ],
@@ -69,11 +69,11 @@
         "tmp%0#1"
       ]
     },
-    "39": {
+    "43": {
       "op": "return",
       "stack_out": []
     },
-    "40": {
+    "44": {
       "block": "main_delete_application_route@7",
       "stack_in": [],
       "op": "txn OnCompletion",
@@ -84,7 +84,7 @@
         "tmp%19#0"
       ]
     },
-    "42": {
+    "46": {
       "op": "pushint 5 // DeleteApplication",
       "defined_out": [
         "DeleteApplication",
@@ -95,7 +95,7 @@
         "DeleteApplication"
       ]
     },
-    "44": {
+    "48": {
       "op": "==",
       "defined_out": [
         "tmp%20#0"
@@ -104,12 +104,12 @@
         "tmp%20#0"
       ]
     },
-    "45": {
+    "49": {
       "error": "OnCompletion is not DeleteApplication",
       "op": "assert // OnCompletion is not DeleteApplication",
       "stack_out": []
     },
-    "46": {
+    "50": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%21#0"
@@ -118,17 +118,17 @@
         "tmp%21#0"
       ]
     },
-    "48": {
+    "52": {
       "error": "can only call when not creating",
       "op": "assert // can only call when not creating",
       "stack_out": []
     },
-    "49": {
+    "53": {
       "callsub": "smart_contracts.box_app.contract.BoxApp.delete_application",
       "op": "callsub delete_application"
     },
-    "52": {
-      "op": "intc_0 // 1",
+    "56": {
+      "op": "intc_1 // 1",
       "defined_out": [
         "tmp%0#1"
       ],
@@ -136,11 +136,11 @@
         "tmp%0#1"
       ]
     },
-    "53": {
+    "57": {
       "op": "return",
       "stack_out": []
     },
-    "54": {
+    "58": {
       "block": "main_delete_box_route@6",
       "stack_in": [],
       "op": "txn OnCompletion",
@@ -151,7 +151,7 @@
         "tmp%12#0"
       ]
     },
-    "56": {
+    "60": {
       "op": "!",
       "defined_out": [
         "tmp%13#0"
@@ -160,12 +160,12 @@
         "tmp%13#0"
       ]
     },
-    "57": {
+    "61": {
       "error": "OnCompletion is not NoOp",
       "op": "assert // OnCompletion is not NoOp",
       "stack_out": []
     },
-    "58": {
+    "62": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%14#0"
@@ -174,12 +174,12 @@
         "tmp%14#0"
       ]
     },
-    "60": {
+    "64": {
       "error": "can only call when not creating",
       "op": "assert // can only call when not creating",
       "stack_out": []
     },
-    "61": {
+    "65": {
       "op": "txna ApplicationArgs 1",
       "defined_out": [
         "tmp%16#0"
@@ -188,7 +188,7 @@
         "tmp%16#0"
       ]
     },
-    "64": {
+    "68": {
       "op": "extract 2 0",
       "defined_out": [
         "tmp%17#0"
@@ -197,7 +197,7 @@
         "tmp%17#0"
       ]
     },
-    "67": {
+    "71": {
       "op": "txna ApplicationArgs 2",
       "defined_out": [
         "reinterpret_bytes[8]%1#0",
@@ -208,7 +208,7 @@
         "reinterpret_bytes[8]%1#0"
       ]
     },
-    "70": {
+    "74": {
       "op": "btoi",
       "defined_out": [
         "tmp%17#0",
@@ -219,13 +219,13 @@
         "tmp%18#0"
       ]
     },
-    "71": {
+    "75": {
       "callsub": "smart_contracts.box_app.contract.BoxApp.delete_box",
       "op": "callsub delete_box",
       "stack_out": []
     },
-    "74": {
-      "op": "intc_0 // 1",
+    "78": {
+      "op": "intc_1 // 1",
       "defined_out": [
         "tmp%0#1"
       ],
@@ -233,11 +233,11 @@
         "tmp%0#1"
       ]
     },
-    "75": {
+    "79": {
       "op": "return",
       "stack_out": []
     },
-    "76": {
+    "80": {
       "block": "main_fill_box_route@5",
       "stack_in": [],
       "op": "txn OnCompletion",
@@ -248,7 +248,7 @@
         "tmp%3#0"
       ]
     },
-    "78": {
+    "82": {
       "op": "!",
       "defined_out": [
         "tmp%4#0"
@@ -257,12 +257,12 @@
         "tmp%4#0"
       ]
     },
-    "79": {
+    "83": {
       "error": "OnCompletion is not NoOp",
       "op": "assert // OnCompletion is not NoOp",
       "stack_out": []
     },
-    "80": {
+    "84": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%5#0"
@@ -271,12 +271,12 @@
         "tmp%5#0"
       ]
     },
-    "82": {
+    "86": {
       "error": "can only call when not creating",
       "op": "assert // can only call when not creating",
       "stack_out": []
     },
-    "83": {
+    "87": {
       "op": "txna ApplicationArgs 1",
       "defined_out": [
         "tmp%7#0"
@@ -285,7 +285,7 @@
         "tmp%7#0"
       ]
     },
-    "86": {
+    "90": {
       "op": "extract 2 0",
       "defined_out": [
         "tmp%8#0"
@@ -294,7 +294,7 @@
         "tmp%8#0"
       ]
     },
-    "89": {
+    "93": {
       "op": "txna ApplicationArgs 2",
       "defined_out": [
         "tmp%8#0",
@@ -305,7 +305,7 @@
         "tmp%9#0"
       ]
     },
-    "92": {
+    "96": {
       "op": "extract 2 0",
       "defined_out": [
         "tmp%10#0",
@@ -316,7 +316,7 @@
         "tmp%10#0"
       ]
     },
-    "95": {
+    "99": {
       "op": "txna ApplicationArgs 3",
       "defined_out": [
         "reinterpret_bytes[8]%0#0",
@@ -329,7 +329,7 @@
         "reinterpret_bytes[8]%0#0"
       ]
     },
-    "98": {
+    "102": {
       "op": "btoi",
       "defined_out": [
         "tmp%10#0",
@@ -342,13 +342,13 @@
         "tmp%11#0"
       ]
     },
-    "99": {
+    "103": {
       "callsub": "smart_contracts.box_app.contract.BoxApp.fill_box",
       "op": "callsub fill_box",
       "stack_out": []
     },
-    "102": {
-      "op": "intc_0 // 1",
+    "106": {
+      "op": "intc_1 // 1",
       "defined_out": [
         "tmp%0#1"
       ],
@@ -356,11 +356,11 @@
         "tmp%0#1"
       ]
     },
-    "103": {
+    "107": {
       "op": "return",
       "stack_out": []
     },
-    "104": {
+    "108": {
       "block": "main_bare_routing@8",
       "stack_in": [],
       "op": "txn OnCompletion",
@@ -371,11 +371,11 @@
         "tmp%23#0"
       ]
     },
-    "106": {
+    "110": {
       "op": "bnz main_after_if_else@10",
       "stack_out": []
     },
-    "109": {
+    "113": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%24#0"
@@ -384,7 +384,7 @@
         "tmp%24#0"
       ]
     },
-    "111": {
+    "115": {
       "op": "!",
       "defined_out": [
         "tmp%25#0"
@@ -393,13 +393,13 @@
         "tmp%25#0"
       ]
     },
-    "112": {
+    "116": {
       "error": "can only call when creating",
       "op": "assert // can only call when creating",
       "stack_out": []
     },
-    "113": {
-      "op": "intc_0 // 1",
+    "117": {
+      "op": "intc_1 // 1",
       "defined_out": [
         "tmp%0#1"
       ],
@@ -407,11 +407,11 @@
         "tmp%0#1"
       ]
     },
-    "114": {
+    "118": {
       "op": "return",
       "stack_out": []
     },
-    "115": {
+    "119": {
       "subroutine": "smart_contracts.box_app.contract.BoxApp.fill_box",
       "params": {
         "raw_key#0": "bytes",
@@ -422,752 +422,898 @@
       "stack_in": [],
       "op": "proto 3 0"
     },
-    "118": {
-      "op": "intc_1 // 0",
+    "122": {
+      "op": "intc_0 // 0",
       "stack_out": [
         "encoded_value%0#0"
       ]
     },
-    "119": {
+    "123": {
+      "op": "dupn 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0"
+      ]
+    },
+    "125": {
       "op": "pushbytes \"\"",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0"
       ]
     },
-    "121": {
+    "127": {
+      "op": "dupn 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0"
+      ]
+    },
+    "129": {
+      "op": "frame_dig -2",
+      "defined_out": [
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "value#0 (copy)"
+      ]
+    },
+    "131": {
+      "op": "len",
+      "defined_out": [
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "132": {
+      "op": "dup",
+      "defined_out": [
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0"
+      ]
+    },
+    "133": {
+      "op": "bnz fill_box_after_if_else@2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "136": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "137": {
+      "block": "fill_box_after_if_else@2",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
       "op": "frame_dig -3",
       "defined_out": [
         "raw_key#0 (copy)"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
         "raw_key#0 (copy)"
       ]
     },
-    "123": {
+    "139": {
       "op": "sha256",
       "defined_out": [
-        "tmp%0#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "tmp%0#0"
-      ]
-    },
-    "124": {
-      "op": "substring 0 8",
-      "defined_out": [
         "tmp%1#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
         "tmp%1#0"
-      ]
-    },
-    "127": {
-      "op": "btoi",
-      "defined_out": [
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0"
-      ]
-    },
-    "128": {
-      "op": "dup",
-      "defined_out": [
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "metadata_key#0"
-      ]
-    },
-    "129": {
-      "op": "intc_0 // 1",
-      "defined_out": [
-        "1",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "metadata_key#0",
-        "1"
-      ]
-    },
-    "130": {
-      "op": "+",
-      "defined_out": [
-        "key#0",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0"
-      ]
-    },
-    "131": {
-      "op": "frame_dig -2",
-      "defined_out": [
-        "key#0",
-        "metadata_key#0",
-        "value#0 (copy)"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "value#0 (copy)"
-      ]
-    },
-    "133": {
-      "op": "len",
-      "defined_out": [
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
-      ]
-    },
-    "134": {
-      "op": "dup",
-      "defined_out": [
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0"
-      ]
-    },
-    "135": {
-      "op": "bz fill_box_after_if_else@8",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
-      ]
-    },
-    "138": {
-      "op": "frame_dig 3",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "key#0"
       ]
     },
     "140": {
-      "op": "itob",
+      "op": "substring 0 8",
       "defined_out": [
-        "encoded_value%0#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
+        "tmp%2#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%2#0"
       ]
     },
-    "141": {
-      "op": "dup",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "encoded_value%0#0"
-      ]
-    },
-    "142": {
-      "op": "frame_bury 0",
+    "143": {
+      "op": "btoi",
       "defined_out": [
-        "encoded_value%0#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
+        "base#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0"
       ]
     },
     "144": {
-      "op": "box_len",
-      "defined_out": [
-        "_%0#0",
-        "encoded_value%0#0",
-        "key#0",
-        "len_value#0",
-        "maybe_exists%0#0",
-        "metadata_key#0"
-      ],
+      "op": "dup",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "_%0#0",
-        "maybe_exists%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0",
+        "base#0"
       ]
     },
     "145": {
-      "op": "bury 1",
+      "op": "frame_bury 4",
+      "defined_out": [
+        "base#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "maybe_exists%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0"
       ]
     },
     "147": {
-      "op": "bnz fill_box_else_body@3",
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "base#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0",
+        "seg_count#0"
+      ]
+    },
+    "148": {
+      "op": "frame_bury 5",
+      "defined_out": [
+        "base#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0"
       ]
     },
     "150": {
-      "op": "frame_dig 0",
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%0#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "151": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0",
         "encoded_value%0#0"
       ]
     },
     "152": {
-      "op": "dup",
+      "op": "frame_bury 0",
       "defined_out": [
+        "base#0",
         "encoded_value%0#0",
-        "encoded_value%0#0 (copy)",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "encoded_value%0#0 (copy)"
-      ]
-    },
-    "153": {
-      "op": "box_del",
-      "defined_out": [
-        "encoded_value%0#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0",
-        "{box_del}"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "{box_del}"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0"
       ]
     },
     "154": {
-      "op": "pop",
+      "op": "box_len",
+      "defined_out": [
+        "_%0#0",
+        "base#0",
+        "encoded_value%0#0",
+        "maybe_exists%0#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "_%0#0",
+        "maybe_exists%0#0"
       ]
     },
     "155": {
-      "op": "frame_dig -2",
+      "op": "bury 1",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "value#0 (copy)"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "maybe_exists%0#0"
       ]
     },
     "157": {
-      "op": "box_put",
+      "op": "bz fill_box_else_body@4",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
-      ]
-    },
-    "158": {
-      "op": "frame_dig 2",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
       ]
     },
     "160": {
-      "op": "itob",
-      "defined_out": [
-        "encoded_value%0#0",
-        "encoded_value%2#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
-      ],
+      "op": "frame_dig 0",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%2#0"
-      ]
-    },
-    "161": {
-      "op": "intc_1 // 0",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%2#0",
-        "0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0"
       ]
     },
     "162": {
-      "op": "itob",
+      "op": "box_get",
       "defined_out": [
+        "base#0",
         "encoded_value%0#0",
-        "encoded_value%2#0",
-        "encoded_value%3#0",
-        "key#0",
-        "len_value#0",
-        "metadata_key#0"
+        "maybe_exists%1#0",
+        "maybe_value%0#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%2#0",
-        "encoded_value%3#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "maybe_value%0#0",
+        "maybe_exists%1#0"
       ]
     },
     "163": {
-      "op": "box_put",
+      "error": "check self.metadata entry exists",
+      "op": "assert // check self.metadata entry exists",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "maybe_value%0#0"
       ]
     },
     "164": {
-      "block": "fill_box_after_if_else@8",
-      "stack_in": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
-      ],
-      "retsub": true,
-      "op": "retsub"
-    },
-    "165": {
-      "block": "fill_box_else_body@3",
-      "stack_in": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
-      ],
-      "op": "frame_dig 0",
-      "defined_out": [
-        "encoded_value%0#0"
-      ],
+      "op": "btoi",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "seg_count#0"
+      ]
+    },
+    "165": {
+      "op": "frame_bury 5",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
       ]
     },
     "167": {
-      "op": "box_len",
-      "defined_out": [
-        "check%0#0",
+      "block": "fill_box_after_if_else@5",
+      "stack_in": [
         "encoded_value%0#0",
-        "idx#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
+      "op": "frame_dig 4",
+      "defined_out": [
+        "base#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "check%0#0"
-      ]
-    },
-    "168": {
-      "op": "swap",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "check%0#0",
-        "idx#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0"
       ]
     },
     "169": {
-      "op": "dup",
+      "op": "frame_dig 5",
+      "defined_out": [
+        "base#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "check%0#0",
-        "idx#0",
-        "idx#0 (copy)"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "base#0",
+        "seg_count#0"
       ]
     },
-    "170": {
-      "op": "cover 2",
+    "171": {
+      "op": "+",
+      "defined_out": [
+        "base#0",
+        "cur_key#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "check%0#0",
-        "idx#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_key#0"
       ]
     },
     "172": {
-      "op": "frame_bury 1",
+      "op": "itob",
       "defined_out": [
-        "check%0#0",
-        "encoded_value%0#0",
-        "idx#0"
+        "base#0",
+        "encoded_value%4#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "check%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "173": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0"
       ]
     },
     "174": {
-      "error": "check self.memory entry exists",
-      "op": "assert // check self.memory entry exists",
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0"
-      ]
-    },
-    "175": {
-      "op": "frame_dig 4",
+      "op": "frame_bury 2",
       "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0"
+        "base#0",
+        "encoded_value%4#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "176": {
+      "op": "box_len",
+      "defined_out": [
+        "_%1#0",
+        "base#0",
+        "encoded_value%4#0",
+        "maybe_exists%2#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "_%1#0",
+        "maybe_exists%2#0"
       ]
     },
     "177": {
-      "op": "+",
-      "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
-        "tmp%3#0"
-      ],
+      "op": "bury 1",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "tmp%3#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "maybe_exists%2#0"
       ]
     },
-    "178": {
-      "op": "pushint 32768 // 32768",
-      "defined_out": [
-        "32768",
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
-        "tmp%3#0"
-      ],
+    "179": {
+      "op": "bnz fill_box_after_if_else@9",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "tmp%3#0",
-        "32768"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
       ]
     },
     "182": {
-      "op": "<=",
+      "op": "frame_dig 8",
       "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
-        "tmp%4#0"
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "tmp%4#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0"
       ]
     },
-    "183": {
-      "op": "bz fill_box_after_if_else@8",
+    "184": {
+      "op": "intc_2 // 32768",
+      "defined_out": [
+        "32768",
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "32768"
+      ]
+    },
+    "185": {
+      "op": "<=",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%3#0"
       ]
     },
     "186": {
-      "op": "frame_dig 1",
+      "op": "bz fill_box_after_if_else@8",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0"
-      ]
-    },
-    "188": {
-      "op": "dup",
-      "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "idx#0 (copy)",
-        "len_value#0"
-      ],
-      "stack_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "idx#0 (copy)"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
       ]
     },
     "189": {
-      "op": "frame_dig 4",
+      "op": "frame_dig 2",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "idx#0 (copy)",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0"
       ]
     },
     "191": {
       "op": "dup",
       "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "idx#0 (copy)",
-        "len_value#0",
-        "len_value#0 (copy)"
+        "base#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "lv#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "idx#0",
-        "idx#0 (copy)",
-        "len_value#0 (copy)",
-        "len_value#0 (copy)"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)"
       ]
     },
     "192": {
-      "op": "cover 3",
+      "op": "box_del",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "{box_del}"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
-        "idx#0",
-        "idx#0 (copy)",
-        "len_value#0 (copy)"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "{box_del}"
+      ]
+    },
+    "193": {
+      "op": "pop",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0"
       ]
     },
     "194": {
-      "op": "+",
+      "op": "frame_dig -2",
       "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
-        "tmp%5#0"
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "value#0 (copy)"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
-        "idx#0",
-        "tmp%5#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "value#0 (copy)"
       ]
     },
-    "195": {
-      "op": "frame_dig 0",
+    "196": {
+      "op": "box_put",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
-        "idx#0",
-        "tmp%5#0",
-        "encoded_value%0#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
       ]
     },
     "197": {
-      "op": "dup"
-    },
-    "198": {
-      "op": "uncover 2",
+      "op": "intc_3 // 2",
       "defined_out": [
-        "encoded_value%0#0",
-        "encoded_value%0#0 (copy)",
-        "idx#0",
-        "len_value#0",
-        "tmp%5#0"
+        "2",
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
-        "idx#0",
-        "encoded_value%0#0",
-        "encoded_value%0#0 (copy)",
-        "tmp%5#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "2"
       ]
     },
-    "200": {
-      "op": "box_resize",
+    "198": {
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "encoded_value%7#0",
+        "lv#0",
+        "seg_count#0"
+      ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
-        "idx#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%7#0"
+      ]
+    },
+    "199": {
+      "op": "frame_dig 0",
+      "defined_out": [
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%4#0",
+        "encoded_value%7#0",
+        "lv#0",
+        "seg_count#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%7#0",
         "encoded_value%0#0"
       ]
     },
@@ -1175,63 +1321,3966 @@
       "op": "swap",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "len_value#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
         "encoded_value%0#0",
-        "idx#0"
+        "encoded_value%7#0"
       ]
     },
     "202": {
+      "op": "box_put",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "203": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "204": {
+      "block": "fill_box_after_if_else@8",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "0"
+      ]
+    },
+    "205": {
+      "op": "frame_dig 8",
+      "defined_out": [
+        "0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "0",
+        "lv#0"
+      ]
+    },
+    "207": {
+      "op": "dup",
+      "defined_out": [
+        "0",
+        "lv#0",
+        "lv#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "0",
+        "lv#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "208": {
+      "op": "cover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "0",
+        "lv#0 (copy)"
+      ]
+    },
+    "210": {
+      "op": ">=",
+      "defined_out": [
+        "is_out_of_bounds%1#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "is_out_of_bounds%1#0"
+      ]
+    },
+    "211": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "is_out_of_bounds%1#0",
+        "0"
+      ]
+    },
+    "212": {
+      "op": "dig 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "is_out_of_bounds%1#0",
+        "0",
+        "lv#0 (copy)"
+      ]
+    },
+    "214": {
       "op": "uncover 2",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "0",
+        "lv#0 (copy)",
+        "is_out_of_bounds%1#0"
       ]
     },
-    "204": {
+    "216": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%1#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0"
+      ]
+    },
+    "217": {
+      "op": "intc_2 // 32768",
+      "defined_out": [
+        "32768",
+        "bounded_index%1#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "32768"
+      ]
+    },
+    "218": {
+      "op": "dig 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "32768",
+        "lv#0 (copy)"
+      ]
+    },
+    "220": {
+      "op": ">=",
+      "defined_out": [
+        "bounded_index%1#0",
+        "is_out_of_bounds%2#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "is_out_of_bounds%2#0"
+      ]
+    },
+    "221": {
+      "op": "intc_2 // 32768",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "is_out_of_bounds%2#0",
+        "32768"
+      ]
+    },
+    "222": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "is_out_of_bounds%2#0",
+        "32768",
+        "lv#0 (copy)"
+      ]
+    },
+    "224": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "32768",
+        "lv#0 (copy)",
+        "is_out_of_bounds%2#0"
+      ]
+    },
+    "226": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%1#0",
+        "bounded_index%2#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "bounded_index%2#0"
+      ]
+    },
+    "227": {
       "op": "frame_dig -2",
       "defined_out": [
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
+        "bounded_index%1#0",
+        "bounded_index%2#0",
+        "lv#0",
         "value#0 (copy)"
       ],
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0",
-        "encoded_value%0#0",
-        "idx#0",
-        "len_value#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%1#0",
+        "bounded_index%2#0",
         "value#0 (copy)"
       ]
     },
-    "206": {
+    "229": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "value#0 (copy)",
+        "bounded_index%1#0"
+      ]
+    },
+    "231": {
+      "op": "dig 2",
+      "defined_out": [
+        "bounded_index%1#0",
+        "bounded_index%2#0",
+        "bounded_index%2#0 (copy)",
+        "lv#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "value#0 (copy)",
+        "bounded_index%1#0",
+        "bounded_index%2#0 (copy)"
+      ]
+    },
+    "233": {
+      "op": "substring3",
+      "defined_out": [
+        "bounded_index%2#0",
+        "head#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0"
+      ]
+    },
+    "234": {
+      "op": "dig 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "lv#0 (copy)"
+      ]
+    },
+    "236": {
+      "op": "intc_2 // 32768",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "lv#0 (copy)",
+        "32768"
+      ]
+    },
+    "237": {
+      "op": "-",
+      "defined_out": [
+        "bounded_index%2#0",
+        "head#0",
+        "lv#0",
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "tmp%4#0"
+      ]
+    },
+    "238": {
+      "op": "dup",
+      "defined_out": [
+        "bounded_index%2#0",
+        "head#0",
+        "lv#0",
+        "tmp%4#0",
+        "tmp%4#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "tmp%4#0",
+        "tmp%4#0 (copy)"
+      ]
+    },
+    "239": {
+      "op": "dig 4",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "tmp%4#0",
+        "tmp%4#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "241": {
+      "op": ">=",
+      "defined_out": [
+        "bounded_index%2#0",
+        "head#0",
+        "is_out_of_bounds%4#0",
+        "lv#0",
+        "tmp%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "tmp%4#0",
+        "is_out_of_bounds%4#0"
+      ]
+    },
+    "242": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "is_out_of_bounds%4#0",
+        "tmp%4#0"
+      ]
+    },
+    "243": {
+      "op": "uncover 4",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "is_out_of_bounds%4#0",
+        "tmp%4#0",
+        "lv#0"
+      ]
+    },
+    "245": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "tmp%4#0",
+        "lv#0",
+        "is_out_of_bounds%4#0"
+      ]
+    },
+    "247": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%2#0",
+        "bounded_index%4#0",
+        "head#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "bounded_index%4#0"
+      ]
+    },
+    "248": {
+      "op": "dup",
+      "defined_out": [
+        "bounded_index%2#0",
+        "bounded_index%4#0",
+        "bounded_index%4#0 (copy)",
+        "head#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "bounded_index%4#0",
+        "bounded_index%4#0 (copy)"
+      ]
+    },
+    "249": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "bounded_index%4#0",
+        "bounded_index%4#0 (copy)",
+        "bounded_index%2#0 (copy)"
+      ]
+    },
+    "251": {
+      "op": "<",
+      "defined_out": [
+        "bounded_index%2#0",
+        "bounded_index%4#0",
+        "end_before_start%0#0",
+        "head#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "bounded_index%4#0",
+        "end_before_start%0#0"
+      ]
+    },
+    "252": {
+      "op": "dig 3"
+    },
+    "254": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "bounded_index%4#0",
+        "bounded_index%2#0 (copy)",
+        "end_before_start%0#0"
+      ]
+    },
+    "255": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%2#0",
+        "end%0#0",
+        "head#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "end%0#0"
+      ]
+    },
+    "256": {
+      "op": "frame_dig -2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "bounded_index%2#0",
+        "head#0",
+        "end%0#0",
+        "value#0 (copy)"
+      ]
+    },
+    "258": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "end%0#0",
+        "value#0 (copy)",
+        "bounded_index%2#0"
+      ]
+    },
+    "260": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "value#0 (copy)",
+        "bounded_index%2#0",
+        "end%0#0"
+      ]
+    },
+    "262": {
+      "op": "substring3",
+      "defined_out": [
+        "head#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0"
+      ]
+    },
+    "263": {
+      "op": "dig 1",
+      "defined_out": [
+        "head#0",
+        "head#0 (copy)",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "head#0 (copy)"
+      ]
+    },
+    "265": {
+      "op": "len",
+      "defined_out": [
+        "head#0",
+        "lv#0",
+        "tail#0",
+        "tmp%5#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "tmp%5#0"
+      ]
+    },
+    "266": {
+      "op": "frame_dig 2",
+      "defined_out": [
+        "encoded_value%4#0",
+        "head#0",
+        "lv#0",
+        "tail#0",
+        "tmp%5#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "tmp%5#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "268": {
+      "op": "dup",
+      "defined_out": [
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "head#0",
+        "lv#0",
+        "tail#0",
+        "tmp%5#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "tmp%5#0",
+        "encoded_value%4#0 (copy)",
+        "encoded_value%4#0 (copy)"
+      ]
+    },
+    "269": {
+      "op": "cover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "encoded_value%4#0",
+        "tmp%5#0",
+        "encoded_value%4#0 (copy)"
+      ]
+    },
+    "271": {
+      "op": "dig 1",
+      "defined_out": [
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "head#0",
+        "lv#0",
+        "tail#0",
+        "tmp%5#0",
+        "tmp%5#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "encoded_value%4#0",
+        "tmp%5#0",
+        "encoded_value%4#0 (copy)",
+        "tmp%5#0 (copy)"
+      ]
+    },
+    "273": {
+      "op": "box_resize",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "encoded_value%4#0",
+        "tmp%5#0"
+      ]
+    },
+    "274": {
+      "op": "intc_0 // 0"
+    },
+    "275": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "tail#0",
+        "encoded_value%4#0",
+        "0",
+        "tmp%5#0"
+      ]
+    },
+    "276": {
+      "op": "uncover 4",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%4#0",
+        "0",
+        "tmp%5#0",
+        "head#0"
+      ]
+    },
+    "278": {
       "op": "box_splice",
       "stack_out": [
         "encoded_value%0#0",
-        "idx#0",
-        "metadata_key#0",
-        "key#0",
-        "len_value#0"
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0"
       ]
     },
-    "207": {
+    "279": {
+      "op": "frame_dig 4",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "base#0"
+      ]
+    },
+    "281": {
+      "op": "intc_3 // 2",
+      "defined_out": [
+        "2",
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "base#0",
+        "2"
+      ]
+    },
+    "282": {
+      "op": "+",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "next_key#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "next_key#0"
+      ]
+    },
+    "283": {
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%10#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0"
+      ]
+    },
+    "284": {
+      "op": "dig 1",
+      "defined_out": [
+        "base#0",
+        "encoded_value%10#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0",
+        "tail#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0",
+        "tail#0 (copy)"
+      ]
+    },
+    "286": {
+      "op": "len",
+      "defined_out": [
+        "base#0",
+        "encoded_value%10#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0",
+        "tmp%7#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0",
+        "tmp%7#0"
+      ]
+    },
+    "287": {
+      "op": "dup2",
+      "defined_out": [
+        "base#0",
+        "encoded_value%10#0",
+        "encoded_value%10#0 (copy)",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0",
+        "tmp%7#0",
+        "tmp%7#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0",
+        "tmp%7#0",
+        "encoded_value%10#0 (copy)",
+        "tmp%7#0 (copy)"
+      ]
+    },
+    "288": {
+      "op": "box_resize",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0",
+        "tmp%7#0"
+      ]
+    },
+    "289": {
+      "op": "intc_0 // 0"
+    },
+    "290": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%10#0",
+        "0",
+        "tmp%7#0"
+      ]
+    },
+    "291": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%10#0",
+        "0",
+        "tmp%7#0",
+        "tail#0"
+      ]
+    },
+    "293": {
+      "op": "box_splice",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "294": {
+      "op": "intc_3 // 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "2"
+      ]
+    },
+    "295": {
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%13#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%13#0"
+      ]
+    },
+    "296": {
+      "op": "frame_dig 0",
+      "defined_out": [
+        "base#0",
+        "encoded_value%0#0",
+        "encoded_value%13#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%13#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "298": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0",
+        "encoded_value%13#0"
+      ]
+    },
+    "299": {
+      "op": "box_put",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "300": {
       "retsub": true,
       "op": "retsub"
     },
-    "208": {
+    "301": {
+      "block": "fill_box_after_if_else@9",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
+      "op": "frame_dig 2",
+      "defined_out": [
+        "encoded_value%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "303": {
+      "op": "box_len",
+      "defined_out": [
+        "check%0#0",
+        "cur_len#0",
+        "encoded_value%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "check%0#0"
+      ]
+    },
+    "304": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "check%0#0",
+        "cur_len#0"
+      ]
+    },
+    "305": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "check%0#0",
+        "cur_len#0",
+        "cur_len#0 (copy)"
+      ]
+    },
+    "306": {
+      "op": "uncover 2",
+      "defined_out": [
+        "check%0#0",
+        "cur_len#0",
+        "encoded_value%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0",
+        "check%0#0"
+      ]
+    },
+    "308": {
+      "error": "check self.memory entry exists",
+      "op": "assert // check self.memory entry exists",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0"
+      ]
+    },
+    "309": {
+      "op": "intc_2 // 32768",
+      "defined_out": [
+        "32768",
+        "cur_len#0",
+        "encoded_value%4#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0",
+        "32768"
+      ]
+    },
+    "310": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "32768",
+        "cur_len#0"
+      ]
+    },
+    "311": {
+      "op": "-",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0"
+      ]
+    },
+    "312": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "space_left#0"
+      ]
+    },
+    "313": {
+      "op": "frame_bury 6",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0"
+      ]
+    },
+    "315": {
+      "op": "frame_dig 8",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "lv#0"
+      ]
+    },
+    "317": {
+      "op": ">=",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "space_left#0",
+        "tmp%9#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "tmp%9#0"
+      ]
+    },
+    "318": {
+      "op": "bz fill_box_after_if_else@11",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0"
+      ]
+    },
+    "321": {
+      "op": "dup",
+      "defined_out": [
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "encoded_value%4#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0 (copy)"
+      ]
+    },
+    "322": {
+      "op": "frame_dig 8",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "lv#0"
+      ]
+    },
+    "324": {
+      "op": "dup",
+      "defined_out": [
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "encoded_value%4#0",
+        "lv#0",
+        "lv#0 (copy)",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "lv#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "325": {
+      "op": "cover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "327": {
+      "op": "+",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "space_left#0",
+        "tmp%10#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "cur_len#0",
+        "tmp%10#0"
+      ]
+    },
+    "328": {
+      "op": "frame_dig 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "cur_len#0",
+        "tmp%10#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "330": {
+      "op": "dup"
+    },
+    "331": {
+      "op": "uncover 2",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "lv#0",
+        "space_left#0",
+        "tmp%10#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "cur_len#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "tmp%10#0"
+      ]
+    },
+    "333": {
+      "op": "box_resize",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "cur_len#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "334": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "cur_len#0"
+      ]
+    },
+    "335": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "cur_len#0",
+        "lv#0"
+      ]
+    },
+    "337": {
+      "op": "frame_dig -2",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "space_left#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "cur_len#0",
+        "lv#0",
+        "value#0 (copy)"
+      ]
+    },
+    "339": {
+      "op": "box_splice",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "340": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "341": {
+      "block": "fill_box_after_if_else@11",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0"
+      ],
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "0"
+      ]
+    },
+    "342": {
+      "op": "frame_dig 8",
+      "defined_out": [
+        "0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "0",
+        "lv#0"
+      ]
+    },
+    "344": {
+      "op": "dup",
+      "defined_out": [
+        "0",
+        "lv#0",
+        "lv#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "0",
+        "lv#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "345": {
+      "op": "cover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "0",
+        "lv#0 (copy)"
+      ]
+    },
+    "347": {
+      "op": ">=",
+      "defined_out": [
+        "is_out_of_bounds%5#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "is_out_of_bounds%5#0"
+      ]
+    },
+    "348": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "is_out_of_bounds%5#0",
+        "0"
+      ]
+    },
+    "349": {
+      "op": "dig 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "is_out_of_bounds%5#0",
+        "0",
+        "lv#0 (copy)"
+      ]
+    },
+    "351": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "0",
+        "lv#0 (copy)",
+        "is_out_of_bounds%5#0"
+      ]
+    },
+    "353": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%5#0",
+        "lv#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0"
+      ]
+    },
+    "354": {
+      "op": "frame_dig 6",
+      "defined_out": [
+        "bounded_index%5#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0"
+      ]
+    },
+    "356": {
+      "op": "dup",
+      "defined_out": [
+        "bounded_index%5#0",
+        "lv#0",
+        "space_left#0",
+        "space_left#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "space_left#0 (copy)"
+      ]
+    },
+    "357": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "space_left#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "359": {
+      "op": ">=",
+      "defined_out": [
+        "bounded_index%5#0",
+        "is_out_of_bounds%6#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "is_out_of_bounds%6#0"
+      ]
+    },
+    "360": {
+      "op": "dig 1",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "is_out_of_bounds%6#0",
+        "space_left#0 (copy)"
+      ]
+    },
+    "362": {
+      "op": "dig 4",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "is_out_of_bounds%6#0",
+        "space_left#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "364": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "space_left#0 (copy)",
+        "lv#0 (copy)",
+        "is_out_of_bounds%6#0"
+      ]
+    },
+    "366": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%5#0",
+        "bounded_index%6#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "bounded_index%6#0"
+      ]
+    },
+    "367": {
+      "op": "frame_dig -2",
+      "defined_out": [
+        "bounded_index%5#0",
+        "bounded_index%6#0",
+        "lv#0",
+        "space_left#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "bounded_index%5#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "value#0 (copy)"
+      ]
+    },
+    "369": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "value#0 (copy)",
+        "bounded_index%5#0"
+      ]
+    },
+    "371": {
+      "op": "dig 2",
+      "defined_out": [
+        "bounded_index%5#0",
+        "bounded_index%6#0",
+        "bounded_index%6#0 (copy)",
+        "lv#0",
+        "space_left#0",
+        "value#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "value#0 (copy)",
+        "bounded_index%5#0",
+        "bounded_index%6#0 (copy)"
+      ]
+    },
+    "373": {
+      "op": "substring3",
+      "defined_out": [
+        "bounded_index%6#0",
+        "head#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0"
+      ]
+    },
+    "374": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "lv#0 (copy)"
+      ]
+    },
+    "376": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "lv#0 (copy)",
+        "space_left#0 (copy)"
+      ]
+    },
+    "378": {
+      "op": "-",
+      "defined_out": [
+        "bounded_index%6#0",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "tmp%11#0"
+      ]
+    },
+    "379": {
+      "op": "dup",
+      "defined_out": [
+        "bounded_index%6#0",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tmp%11#0",
+        "tmp%11#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "tmp%11#0",
+        "tmp%11#0 (copy)"
+      ]
+    },
+    "380": {
+      "op": "dig 5",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "tmp%11#0",
+        "tmp%11#0 (copy)",
+        "lv#0 (copy)"
+      ]
+    },
+    "382": {
+      "op": ">=",
+      "defined_out": [
+        "bounded_index%6#0",
+        "head#0",
+        "is_out_of_bounds%8#0",
+        "lv#0",
+        "space_left#0",
+        "tmp%11#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "tmp%11#0",
+        "is_out_of_bounds%8#0"
+      ]
+    },
+    "383": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "lv#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "is_out_of_bounds%8#0",
+        "tmp%11#0"
+      ]
+    },
+    "384": {
+      "op": "uncover 5",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "is_out_of_bounds%8#0",
+        "tmp%11#0",
+        "lv#0"
+      ]
+    },
+    "386": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "tmp%11#0",
+        "lv#0",
+        "is_out_of_bounds%8#0"
+      ]
+    },
+    "388": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%6#0",
+        "bounded_index%8#0",
+        "head#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "bounded_index%8#0"
+      ]
+    },
+    "389": {
+      "op": "dup",
+      "defined_out": [
+        "bounded_index%6#0",
+        "bounded_index%8#0",
+        "bounded_index%8#0 (copy)",
+        "head#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "bounded_index%8#0",
+        "bounded_index%8#0 (copy)"
+      ]
+    },
+    "390": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "bounded_index%8#0",
+        "bounded_index%8#0 (copy)",
+        "bounded_index%6#0 (copy)"
+      ]
+    },
+    "392": {
+      "op": "<",
+      "defined_out": [
+        "bounded_index%6#0",
+        "bounded_index%8#0",
+        "end_before_start%1#0",
+        "head#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "bounded_index%8#0",
+        "end_before_start%1#0"
+      ]
+    },
+    "393": {
+      "op": "dig 3"
+    },
+    "395": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "bounded_index%8#0",
+        "bounded_index%6#0 (copy)",
+        "end_before_start%1#0"
+      ]
+    },
+    "396": {
+      "op": "select",
+      "defined_out": [
+        "bounded_index%6#0",
+        "end%1#0",
+        "head#0",
+        "lv#0",
+        "space_left#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "end%1#0"
+      ]
+    },
+    "397": {
+      "op": "frame_dig -2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "bounded_index%6#0",
+        "head#0",
+        "end%1#0",
+        "value#0 (copy)"
+      ]
+    },
+    "399": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "head#0",
+        "end%1#0",
+        "value#0 (copy)",
+        "bounded_index%6#0"
+      ]
+    },
+    "401": {
+      "op": "uncover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "head#0",
+        "value#0 (copy)",
+        "bounded_index%6#0",
+        "end%1#0"
+      ]
+    },
+    "403": {
+      "op": "substring3",
+      "defined_out": [
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "head#0",
+        "tail#0"
+      ]
+    },
+    "404": {
+      "op": "frame_bury 3",
+      "defined_out": [
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "cur_len#0",
+        "space_left#0",
+        "head#0"
+      ]
+    },
+    "406": {
+      "op": "uncover 2",
+      "defined_out": [
+        "cur_len#0",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0"
+      ]
+    },
+    "408": {
+      "op": "dup",
+      "defined_out": [
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "cur_len#0 (copy)"
+      ]
+    },
+    "409": {
+      "op": "dig 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "cur_len#0 (copy)",
+        "space_left#0 (copy)"
+      ]
+    },
+    "411": {
+      "op": "+",
+      "defined_out": [
+        "cur_len#0",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "tmp%12#0"
+      ]
+    },
+    "412": {
+      "op": "frame_dig 2",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "tmp%12#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "414": {
+      "op": "dup"
+    },
+    "415": {
+      "op": "uncover 2",
+      "defined_out": [
+        "cur_len#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "head#0",
+        "lv#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%12#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "encoded_value%4#0",
+        "encoded_value%4#0 (copy)",
+        "tmp%12#0"
+      ]
+    },
+    "417": {
+      "op": "box_resize",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "cur_len#0",
+        "encoded_value%4#0"
+      ]
+    },
+    "418": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "space_left#0",
+        "head#0",
+        "encoded_value%4#0",
+        "cur_len#0"
+      ]
+    },
+    "419": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "head#0",
+        "encoded_value%4#0",
+        "cur_len#0",
+        "space_left#0"
+      ]
+    },
+    "421": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%4#0",
+        "cur_len#0",
+        "space_left#0",
+        "head#0"
+      ]
+    },
+    "423": {
+      "op": "box_splice",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "424": {
+      "op": "frame_dig 5",
+      "defined_out": [
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "seg_count#0"
+      ]
+    },
+    "426": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "seg_count#0",
+        "1"
+      ]
+    },
+    "427": {
+      "op": "+",
+      "defined_out": [
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%13#0"
+      ]
+    },
+    "428": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%13#0",
+        "tmp%13#0"
+      ]
+    },
+    "429": {
+      "op": "frame_bury 7",
+      "defined_out": [
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%13#0"
+      ]
+    },
+    "431": {
+      "op": "frame_dig 4",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%13#0",
+        "base#0"
+      ]
+    },
+    "433": {
+      "op": "+",
+      "defined_out": [
+        "base#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "next_key#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "next_key#0"
+      ]
+    },
+    "434": {
+      "op": "itob",
+      "defined_out": [
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "435": {
+      "op": "dup",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "436": {
+      "op": "frame_bury 1",
+      "defined_out": [
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "438": {
+      "op": "box_len",
+      "defined_out": [
+        "_%2#0",
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "maybe_exists%3#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "_%2#0",
+        "maybe_exists%3#0"
+      ]
+    },
+    "439": {
+      "op": "bury 1",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "maybe_exists%3#0"
+      ]
+    },
+    "441": {
+      "op": "bnz fill_box_after_if_else@13",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "444": {
+      "op": "frame_dig 1",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "446": {
+      "op": "dup",
+      "defined_out": [
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%19#0 (copy)",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0",
+        "encoded_value%19#0 (copy)"
+      ]
+    },
+    "447": {
+      "op": "box_del",
+      "defined_out": [
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0",
+        "{box_del}"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0",
+        "{box_del}"
+      ]
+    },
+    "448": {
+      "op": "pop",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "449": {
+      "op": "pushbytes \"\"",
+      "defined_out": [
+        "\"\"",
+        "base#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "lv#0",
+        "seg_count#0",
+        "space_left#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0",
+        "\"\""
+      ]
+    },
+    "451": {
+      "op": "box_put",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "452": {
+      "block": "fill_box_after_if_else@13",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
+      "op": "frame_dig 3",
+      "defined_out": [
+        "tail#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0"
+      ]
+    },
+    "454": {
+      "op": "dup",
+      "defined_out": [
+        "tail#0",
+        "tail#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "tail#0 (copy)"
+      ]
+    },
+    "455": {
+      "op": "len",
+      "defined_out": [
+        "tail#0",
+        "tmp%14#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "tmp%14#0"
+      ]
+    },
+    "456": {
+      "op": "frame_dig 1",
+      "defined_out": [
+        "encoded_value%19#0",
+        "tail#0",
+        "tmp%14#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "tmp%14#0",
+        "encoded_value%19#0"
+      ]
+    },
+    "458": {
+      "op": "dup",
+      "defined_out": [
+        "encoded_value%19#0",
+        "encoded_value%19#0 (copy)",
+        "tail#0",
+        "tmp%14#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "tmp%14#0",
+        "encoded_value%19#0 (copy)",
+        "encoded_value%19#0 (copy)"
+      ]
+    },
+    "459": {
+      "op": "cover 2",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%19#0",
+        "tmp%14#0",
+        "encoded_value%19#0 (copy)"
+      ]
+    },
+    "461": {
+      "op": "dig 1",
+      "defined_out": [
+        "encoded_value%19#0",
+        "encoded_value%19#0 (copy)",
+        "tail#0",
+        "tmp%14#0",
+        "tmp%14#0 (copy)"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%19#0",
+        "tmp%14#0",
+        "encoded_value%19#0 (copy)",
+        "tmp%14#0 (copy)"
+      ]
+    },
+    "463": {
+      "op": "box_resize",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%19#0",
+        "tmp%14#0"
+      ]
+    },
+    "464": {
+      "op": "intc_0 // 0"
+    },
+    "465": {
+      "op": "swap",
+      "defined_out": [
+        "0",
+        "encoded_value%19#0",
+        "tail#0",
+        "tmp%14#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tail#0",
+        "encoded_value%19#0",
+        "0",
+        "tmp%14#0"
+      ]
+    },
+    "466": {
+      "op": "uncover 3",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%19#0",
+        "0",
+        "tmp%14#0",
+        "tail#0"
+      ]
+    },
+    "468": {
+      "op": "box_splice",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "469": {
+      "op": "frame_dig 7",
+      "defined_out": [
+        "encoded_value%19#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "tmp%13#0"
+      ]
+    },
+    "471": {
+      "op": "itob",
+      "defined_out": [
+        "encoded_value%19#0",
+        "encoded_value%24#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%24#0"
+      ]
+    },
+    "472": {
+      "op": "frame_dig 0",
+      "defined_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%24#0",
+        "tail#0",
+        "tmp%13#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%24#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "474": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0",
+        "encoded_value%24#0"
+      ]
+    },
+    "475": {
+      "op": "box_put",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "476": {
+      "retsub": true,
+      "op": "retsub"
+    },
+    "477": {
+      "block": "fill_box_else_body@4",
+      "stack_in": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ],
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "1"
+      ]
+    },
+    "478": {
+      "op": "itob",
+      "defined_out": [
+        "encoded_value%3#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%3#0"
+      ]
+    },
+    "479": {
+      "op": "frame_dig 0",
+      "defined_out": [
+        "encoded_value%0#0",
+        "encoded_value%3#0"
+      ],
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%3#0",
+        "encoded_value%0#0"
+      ]
+    },
+    "481": {
+      "op": "swap",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0",
+        "encoded_value%0#0",
+        "encoded_value%3#0"
+      ]
+    },
+    "482": {
+      "op": "box_put",
+      "stack_out": [
+        "encoded_value%0#0",
+        "encoded_value%19#0",
+        "encoded_value%4#0",
+        "tail#0",
+        "base#0",
+        "seg_count#0",
+        "space_left#0",
+        "tmp%13#0",
+        "lv#0"
+      ]
+    },
+    "483": {
+      "op": "b fill_box_after_if_else@5"
+    },
+    "486": {
       "subroutine": "smart_contracts.box_app.contract.BoxApp.delete_box",
       "params": {
         "raw_key#0": "bytes",
@@ -1241,7 +5290,7 @@
       "stack_in": [],
       "op": "proto 2 0"
     },
-    "211": {
+    "489": {
       "op": "frame_dig -2",
       "defined_out": [
         "raw_key#0 (copy)"
@@ -1250,7 +5299,7 @@
         "raw_key#0 (copy)"
       ]
     },
-    "213": {
+    "491": {
       "op": "sha256",
       "defined_out": [
         "tmp%0#0"
@@ -1259,7 +5308,7 @@
         "tmp%0#0"
       ]
     },
-    "214": {
+    "492": {
       "op": "substring 0 8",
       "defined_out": [
         "tmp%1#0"
@@ -1268,7 +5317,7 @@
         "tmp%1#0"
       ]
     },
-    "217": {
+    "495": {
       "op": "btoi",
       "defined_out": [
         "metadata_key#0"
@@ -1277,7 +5326,7 @@
         "metadata_key#0"
       ]
     },
-    "218": {
+    "496": {
       "op": "dup",
       "defined_out": [
         "metadata_key#0",
@@ -1288,8 +5337,8 @@
         "metadata_key#0 (copy)"
       ]
     },
-    "219": {
-      "op": "intc_0 // 1",
+    "497": {
+      "op": "intc_1 // 1",
       "defined_out": [
         "1",
         "metadata_key#0",
@@ -1301,7 +5350,7 @@
         "1"
       ]
     },
-    "220": {
+    "498": {
       "op": "+",
       "defined_out": [
         "key#0",
@@ -1312,7 +5361,7 @@
         "key#0"
       ]
     },
-    "221": {
+    "499": {
       "op": "itob",
       "defined_out": [
         "encoded_value%0#0",
@@ -1323,7 +5372,7 @@
         "encoded_value%0#0"
       ]
     },
-    "222": {
+    "500": {
       "op": "box_del",
       "defined_out": [
         "metadata_key#0",
@@ -1334,13 +5383,13 @@
         "{box_del}"
       ]
     },
-    "223": {
+    "501": {
       "op": "pop",
       "stack_out": [
         "metadata_key#0"
       ]
     },
-    "224": {
+    "502": {
       "op": "itob",
       "defined_out": [
         "encoded_value%1#0"
@@ -1349,21 +5398,21 @@
         "encoded_value%1#0"
       ]
     },
-    "225": {
+    "503": {
       "op": "box_del",
       "stack_out": [
         "{box_del}"
       ]
     },
-    "226": {
+    "504": {
       "op": "pop",
       "stack_out": []
     },
-    "227": {
+    "505": {
       "retsub": true,
       "op": "retsub"
     },
-    "228": {
+    "506": {
       "subroutine": "smart_contracts.box_app.contract.BoxApp.delete_application",
       "params": {},
       "block": "delete_application",
@@ -1376,7 +5425,7 @@
         "tmp%0#0"
       ]
     },
-    "230": {
+    "508": {
       "op": "global CreatorAddress",
       "defined_out": [
         "tmp%0#0",
@@ -1387,7 +5436,7 @@
         "tmp%1#0"
       ]
     },
-    "232": {
+    "510": {
       "op": "==",
       "defined_out": [
         "tmp%2#0"
@@ -1396,14 +5445,14 @@
         "tmp%2#0"
       ]
     },
-    "233": {
+    "511": {
       "op": "assert",
       "stack_out": []
     },
-    "234": {
+    "512": {
       "op": "itxn_begin"
     },
-    "235": {
+    "513": {
       "op": "global MinTxnFee",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
@@ -1412,7 +5461,7 @@
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "237": {
+    "515": {
       "op": "global CreatorAddress",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
@@ -1423,7 +5472,7 @@
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "239": {
+    "517": {
       "op": "dup",
       "defined_out": [
         "inner_txn_params%0%%param_CloseRemainderTo_idx_0#0",
@@ -1436,15 +5485,15 @@
         "inner_txn_params%0%%param_CloseRemainderTo_idx_0#0"
       ]
     },
-    "240": {
+    "518": {
       "op": "itxn_field CloseRemainderTo",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "242": {
-      "op": "intc_1 // 0",
+    "520": {
+      "op": "intc_0 // 0",
       "defined_out": [
         "0",
         "inner_txn_params%0%%param_Fee_idx_0#0",
@@ -1456,21 +5505,21 @@
         "0"
       ]
     },
-    "243": {
+    "521": {
       "op": "itxn_field Amount",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "245": {
+    "523": {
       "op": "itxn_field Receiver",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "247": {
-      "op": "intc_0 // pay",
+    "525": {
+      "op": "intc_1 // pay",
       "defined_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0",
         "pay"
@@ -1480,20 +5529,20 @@
         "pay"
       ]
     },
-    "248": {
+    "526": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "inner_txn_params%0%%param_Fee_idx_0#0"
       ]
     },
-    "250": {
+    "528": {
       "op": "itxn_field Fee",
       "stack_out": []
     },
-    "252": {
+    "530": {
       "op": "itxn_submit"
     },
-    "253": {
+    "531": {
       "retsub": true,
       "op": "retsub"
     }

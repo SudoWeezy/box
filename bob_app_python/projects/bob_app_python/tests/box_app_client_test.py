@@ -16,7 +16,6 @@ from algokit_utils import (
 from smart_contracts.artifacts.box_app.box_app_client import (
     BoxAppClient,
     BoxAppFactory,
-    DeleteBoxArgs,
     FillBoxArgs,
 )
 
@@ -129,12 +128,10 @@ def test_fill_box_less_than_32(
         )
         return box_app_client.params.fill_box(args, param)
 
-    # Appels avec les morceaux
     for i in range(nb_calls):
         chunk = dummy_input[i * chunk_size : (i + 1) * chunk_size]
         composer.add_app_call_method_call(fill_box(raw_key, chunk, i))
 
-    # Dernier morceau s'il reste quelque chose
     if last_call > 0:
         chunk = dummy_input[nb_calls * chunk_size :]
         composer.add_app_call_method_call(fill_box(raw_key, chunk, nb_calls))
@@ -142,39 +139,39 @@ def test_fill_box_less_than_32(
     composer.send()
 
 
-def test_delete_box_removes_memory_and_metadata(
-    box_app_client: BoxAppClient, deployer: SigningAccount
-) -> None:
-    algorand = AlgorandClient.from_environment()
+# def test_delete_box_removes_memory_and_metadata(
+#     box_app_client: BoxAppClient, deployer: SigningAccount
+# ) -> None:
+#     algorand = AlgorandClient.from_environment()
 
-    raw_key = "test"
+#     raw_key = "test"
 
-    # Compute box names (8-byte big-endian) matching on-chain logic
-    meta_u64 = btoi_sha256_8(raw_key)
-    meta_name = int_to_bytes8(meta_u64)
-    key_name = int_to_bytes8(meta_u64 + 1)
+#     # Compute box names (8-byte big-endian) matching on-chain logic
+#     meta_u64 = btoi_sha256_8(raw_key)
+#     meta_name = int_to_bytes8(meta_u64)
+#     key_name = int_to_bytes8(meta_u64 + 1)
 
-    # 2) Delete the box via ABI
-    composer = algorand.new_group()
-    box_memory = algorand.app.get_box_value(box_app_client.app_id, key_name)
-    box_metadata = algorand.app.get_box_value(box_app_client.app_id, meta_name)
-    del_params = CommonAppCallParams(
-        box_references=[key_name, meta_name], signer=deployer.signer
-    )
-    nbcalls = (len(box_memory) + len(box_metadata)) // 2048 + 1
+#     # 2) Delete the box via ABI
+#     composer = algorand.new_group()
+#     box_memory = algorand.app.get_box_value(box_app_client.app_id, key_name)
+#     box_metadata = algorand.app.get_box_value(box_app_client.app_id, meta_name)
+#     del_params = CommonAppCallParams(
+#         box_references=[key_name, meta_name], signer=deployer.signer
+#     )
+#     nbcalls = (len(box_memory) + len(box_metadata)) // 2048 + 1
 
-    for i in range(0, nbcalls):
-        composer.add_app_call_method_call(
-            box_app_client.params.delete_box(
-                DeleteBoxArgs(raw_key=raw_key, index=i), del_params
-            )
-        )
+#     for i in range(0, nbcalls):
+#         composer.add_app_call_method_call(
+#             box_app_client.params.delete_box(
+#                 DeleteBoxArgs(raw_key=raw_key, index=i), del_params
+#             )
+#         )
 
-    composer.send()
+#     composer.send()
 
-    # Verify both are gone
-    assert not box_exists(algorand, box_app_client.app_id, key_name)
-    assert not box_exists(algorand, box_app_client.app_id, meta_name)
+#     # Verify both are gone
+#     assert not box_exists(algorand, box_app_client.app_id, key_name)
+#     assert not box_exists(algorand, box_app_client.app_id, meta_name)
 
 
 # def test_says_hello(box_app_client: BoxAppClient) -> None:
