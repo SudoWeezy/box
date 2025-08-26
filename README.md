@@ -2,7 +2,6 @@
 
 This repository explores a design pattern for managing **large variable storage** on Algorand smart contracts, beyond the 32 KB per-box limit.  
 
-The approach is inspired by **stack vs. heap memory management** in traditional programming.  
 
 ---
 
@@ -90,7 +89,9 @@ def seg_box_name(raw_key: str, i: int) -> bytes:
 
 ### Notes & Considerations
 
-- **Collisions**: 64‑bit space is ample for typical app usage; if you expect millions of distinct keys, you may add namespace prefixes to `raw_key` (e.g., `"user:"+id`).
+- **Collisions**: 64‑bit space is ample for typical app usage; we can consider to go lower for most cases
 - **Costs**: Storage cost is per‑box key+value bytes. Appends use `box_resize` + `box_splice`. Keeping calls ≤2 KB avoids exceeding AVM argument limits.
 - **Deletion**: To delete a variable, delete all segments `base+1..base+N` and clear `metadata[base]`.
-- **Indexing by path**: If you need random access to nested JSON fields on‑chain, add a secondary index (e.g., hashed field paths → (segment, offset, length)). This repo focuses on efficient append & linear read.
+
+> This repo focuses on efficient append & linear read.
+> - **Indexing by path**: If you need random access to nested JSON fields on‑chain, you can add a secondary index (e.g., hashed field paths → (segment, offset, length)).
