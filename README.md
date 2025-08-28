@@ -95,3 +95,106 @@ def seg_box_name(raw_key: str, i: int) -> bytes:
 
 > This repo focuses on efficient append & linear read.
 > - **Indexing by path**: If you need random access to nested JSON fields on‑chain, you can add a secondary index (e.g., hashed field paths → (segment, offset, length)).
+
+## 🧩 JSON Storage Mode (Flattened Fields)
+
+In this mode there is **one entry per path**. You hash the **fully‑qualified JSON field path** (e.g., `user.emails[0]`) to derive a **64‑bit key**, and you use that same key for both the META entry and the HEAP entry — **no raw key prefix**.
+
+- **META (index)**
+  - **Box key**: `field_key = btoi(sha256(path)[:8])`
+  - **Box value**: the path itself (UTF‑8), e.g. `"user.emails[0]"`
+  - Purpose: allows discovery/enumeration of which paths exist without reading large values.
+
+- **HEAP (data)**
+  - **Box key**: same `field_key`
+  - **Box value**: the **actual bytes** for that field (string bytes, JSON‑encoded scalar, binary, etc.). Must be ≤ **32_768** bytes.
+
+There is **no base key** and **no +1/+2 increment** here; every flattened path is its own addressable record.
+
+### Example
+
+Given the following JSON:
+```json
+{
+  "user": {
+    "name": "Alice",
+    "age": 42,
+    "emails": ["a@example.com", "b@example.com"]
+  }
+}
+```
+Define **paths** (no raw key prefix):
+- `user.name`
+- `user.age`
+- `user.emails[0]`
+- `user.emails[1]`
+
+For each path `p`:
+1) Compute `k = btoi(sha256(p)[:8])`
+2) Create **META** box named `k.to_bytes(8,'big')` with value = `p` (UTF‑8)
+3) Create **HEAP** box named `k.to_bytes(8,'big')` with value = the field bytes
+   - `user.name`  → bytes("Alice")
+   - `user.age`   → 8‑byte big‑endian integer **or** bytes("42")
+   - `user.emails[0]` → bytes("a@example.com")
+   - `user.emails[1]` → bytes("b@example.com")
+
+### Read / Update
+
+- **Read**: given a known path `p`, compute `k = btoi(sha256(p)[:8])` and read the HEAP box `k`.
+- **Enumerate**: scan META boxes (your app can namespace them, e.g., by keeping a small directory list) and read their UTF‑8 values to list available paths.
+- **Update**: same key derivation; overwrite the HEAP value for `k`.
+
+### Python Helpers (off‑chain)
+
+```py
+import hashlib, json
+from typing import Any, Dict, List, Tuple
+
+MAX_BOX = 32_768
+
+def u64_sha256_8(s: str) -> int:
+    return int.from_bytes(hashlib.sha256(s.encode()).digest()[:8], 'big')
+
+def box_name_u64(x: int) -> bytes:
+    return x.to_bytes(8, 'big')
+
+# Flatten JSON into (path, value_bytes) WITHOUT any raw-key prefix
+
+def flatten_paths(obj: Any, prefix: str = "") -> List[Tuple[str, bytes]]:
+    out: List[Tuple[str, bytes]] = []
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            p = f"{prefix}.{k}" if prefix else k
+            out.extend(flatten_paths(v, p))
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            p = f"{prefix}[{i}]"
+            out.extend(flatten_paths(v, p))
+    else:
+        # store JSON scalar encoding to preserve type
+        out.append((prefix, json.dumps(obj, ensure_ascii=False).encode('utf-8')))
+    return out
+
+# Build META and HEAP records where keys are identical (hash(path))
+# Returns: meta: Dict[u64_key, bytes(path_utf8)], heap: Dict[u64_key, bytes(value)]
+
+def build_flat_records(obj: Any):
+    meta: Dict[int, bytes] = {}
+    heap: Dict[int, bytes] = {}
+    for path, value_bytes in flatten_paths(obj):
+        k = u64_sha256_8(path)
+        assert len(value_bytes) <= MAX_BOX, f"Value too large for one box: {path} has {len(value_bytes)} bytes"
+        meta[k] = path.encode('utf-8')
+        heap[k] = value_bytes
+    return meta, heap
+```
+
+### Notes
+
+- **Size limits**: Each field value must fit into **one box** (≤ 32 KB). If you need larger than 32 KB for a single field, use the append/segment model from earlier for that field only, and store a small pointer object in HEAP (e.g., `{ "seg_base": <u64>, "segments": N }`).
+- **Schema choices**: META can be JSON, CBOR, or tight binary. JSON is simplest to debug; CBOR/binary is most compact.
+- **Determinism**: Keys are derived by hashing the path string itself (e.g., 
+`user.emails[0]`). Use unique, stable paths in your application schema to avoid collisions across logical variables.
+- **Types**: You can store integers as 8‑byte big‑endian for efficient on‑chain use, or as JSON strings for flexibility.
+
+> Warning: This approach cannot distinguish between different JSON documents that share the same field paths, since the key is derived solely from the path string.
